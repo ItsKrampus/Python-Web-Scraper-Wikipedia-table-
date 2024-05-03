@@ -33,13 +33,3 @@ df.to_csv(r'c:\Users\User\Desktop\Samsaxuri\SCRAPERS\Scraper\amazon_data.csv', i
 
 
 
-
-# file=open("scraped_quotes.csv", "w")
-# writer=csv.writer(file)
-# writer.writerow(["QUOTES","AUTHORS"])
-
-
-# for quote, author in zip(quotes,authors):
-#     print(quote.text +" "+ author.text)
-#     writer.writerow([quote.text, author.text])
-# file.close()
